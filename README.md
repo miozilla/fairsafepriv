@@ -1,5 +1,5 @@
 # fairsafepriv ⚖️⛵😎
-fairsafepriv : Fairness, Privacy & Safety # Bias # MinDiff # tensorflow # keras # Gemini-API
+fairsafepriv : Fairness, Privacy & Safety # Bias # MinDiff # Tensorflow # Keras # Gemini-API
 
 
 ## Objective
