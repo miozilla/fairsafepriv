@@ -1,2 +1,2 @@
 # fairsafepriv
-fairsafepriv : Fairness, Privacy &amp; Safety # mindiff # tensorflow # gemini
+fairsafepriv : Fairness, Privacy & Safety # Bias # MinDiff # tensorflow # keras # gemini
